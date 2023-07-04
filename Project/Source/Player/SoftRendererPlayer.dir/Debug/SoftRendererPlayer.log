@@ -1,0 +1,8 @@
+﻿  Precompiled.cpp
+  SystemInputManager.cpp
+  SoftRenderer.cpp
+  SoftRenderer2D.cpp
+  SoftRenderer3D.cpp
+  WindowsApp.cpp
+  Generating Code...
+  SoftRendererPlayer.vcxproj -> D:\DirectX\gamemath-8-4\Output\Windows\Binary\Debug\SoftRendererPlayer.exe
