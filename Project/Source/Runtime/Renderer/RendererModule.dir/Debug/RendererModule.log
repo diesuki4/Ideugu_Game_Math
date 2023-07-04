@@ -1,0 +1,10 @@
+﻿  Precompiled.cpp
+  Shader.cpp
+  Vertex.cpp
+  PerspectiveTest.cpp
+  WindowsGDI.cpp
+  WindowsRSI.cpp
+  Generating Code...
+  Shader.cpp
+  Vertex.cpp
+  RendererModule.vcxproj -> D:\DirectX\gamemath-12-4\Output\Windows\Library\Debug\RendererModule.lib
