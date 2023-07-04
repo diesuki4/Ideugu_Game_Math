@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Precompiled.cpp" />
+    <ClCompile Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Private\2D\Shader.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Private\2D\Vertex.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Private\3D\PerspectiveTest.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Private\3D\Shader.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Private\3D\Vertex.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Private\Windows\WindowsGDI.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Private\Windows\WindowsRSI.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Precompiled.h" />
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Public\2D\Shader.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Public\2D\Vertex.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Public\3D\PerspectiveTest.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Public\3D\Shader.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Public\3D\Vertex.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Public\RendererHeaders.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Public\RendererInterface.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Public\Windows\WindowsGDI.h">
+      <Filter>Public\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-7-2\Source\Runtime\Renderer\Public\Windows\WindowsRSI.h">
+      <Filter>Public\Windows</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Private">
+      <UniqueIdentifier>{BC71F418-5596-3982-B25C-B1ED42D9F8AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\2D">
+      <UniqueIdentifier>{EF27A34C-F233-3CDC-849F-9C18600D56A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\3D">
+      <UniqueIdentifier>{6DEF053F-A6B8-3894-BBDD-1CE2F1589002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{EEE16AE9-3F9D-3CDB-9725-1027D2FA2207}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public">
+      <UniqueIdentifier>{DC9C5A8C-870C-3930-A625-E4BAFF8FB0A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\2D">
+      <UniqueIdentifier>{4054020A-958D-3F60-8054-EAB93EDEDA98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\3D">
+      <UniqueIdentifier>{056DF8EF-AD3B-3989-97BF-F1C0CB2D6B0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\Windows">
+      <UniqueIdentifier>{7E1A811C-C14B-3F06-A717-143AB84DFEA8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
