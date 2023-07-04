@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Precompiled.cpp" />
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\2D\CameraObject.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\2D\GameEngine.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\2D\GameObject.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\2D\Mesh.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\2D\TransformComponent.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\3D\Bone.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\3D\CameraObject.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\3D\GameEngine.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\3D\GameObject.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\3D\Mesh.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\3D\TransformComponent.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\InputManager.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Private\Texture.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Precompiled.h" />
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\2D\CameraObject.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\2D\GameEngine.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\2D\GameObject.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\2D\Mesh.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\2D\TransformComponent.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\3D\CameraObject.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\3D\GameEngine.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\3D\GameObject.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\3D\Mesh.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\3D\Resources.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\3D\TransformComponent.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\EngineHeaders.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\EngineInterface.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\InputManager.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\Public\Texture.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_c_lexer.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_connected_components.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_divide.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_ds.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_dxt.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_easy_font.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_herringbone_wang_tile.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_image.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_image_resize.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_image_write.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_include.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_leakcheck.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_perlin.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_rect_pack.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_sprintf.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_textedit.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_tilemap_editor.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_truetype.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stb_voxel_render.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\DirectX\gamemath-12-1\Source\Runtime\Engine\ThirdParty\Stb\stretchy_buffer.h">
+      <Filter>ThirdParty\Stb</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Private">
+      <UniqueIdentifier>{EB57567E-090A-3576-AA6A-24D41ACB9181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\2D">
+      <UniqueIdentifier>{5F86CD8D-C4FE-3332-9913-3D6D201F6BF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\3D">
+      <UniqueIdentifier>{D90B5F2A-ADDD-3FC9-9AB4-D94F376A3E0A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public">
+      <UniqueIdentifier>{B7E72AD2-5BB1-324B-9397-972EA15D0EFE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\2D">
+      <UniqueIdentifier>{F26709EE-CFB0-3259-B15E-B300FFDC945D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\3D">
+      <UniqueIdentifier>{5199B82F-D0AE-3828-97C4-573150A0CF83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ThirdParty">
+      <UniqueIdentifier>{7B8C4657-ECFB-3C73-9E5D-2B9A6CF0BB20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ThirdParty\Stb">
+      <UniqueIdentifier>{FDA01625-2DB2-3375-AA8A-AF751479F7BD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

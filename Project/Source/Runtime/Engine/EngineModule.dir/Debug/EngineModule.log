@@ -1,0 +1,16 @@
+﻿  Precompiled.cpp
+  CameraObject.cpp
+  GameEngine.cpp
+  GameObject.cpp
+  Mesh.cpp
+  TransformComponent.cpp
+  Bone.cpp
+  InputManager.cpp
+  Texture.cpp
+  Generating Code...
+  CameraObject.cpp
+  GameEngine.cpp
+  GameObject.cpp
+  Mesh.cpp
+  TransformComponent.cpp
+  EngineModule.vcxproj -> D:\DirectX\gamemath-12-1\Output\Windows\Library\Debug\EngineModule.lib
